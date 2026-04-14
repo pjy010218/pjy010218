@@ -1,6 +1,6 @@
 # 박준영 Junyeong Park | Cybersecurity Researcher
 
-> **"Determinism over Probability"**
+> **"Determinism over Probability"**<br>
 > In the age of making well-educated guesses, I pursue deterministic security solutions based on kernel metrics, moving beyond probabilistic detection.
 
 저는 커널 레벨의 보안 메커니즘, 그리고 AI 보안을 연구하는 보안 공학자입니다. 시스템의 저수준(Kernel) 운영체제 원리와 고수준(LLM Agent) 서비스 사이의 신뢰 체인을 구축하는 데 집중하고 있습니다.
@@ -18,8 +18,7 @@
 ## 📚 Publications
 
 ### 🌍 International Conferences
-* **A Self-Synchronizing Cyber Deception Framework via Infrastructure as Code Reflection** *Junyeong Park*, Sayeon Kim, Woohyun Jang, Yeon-Jae Kim, Shinwoo Shim, Olmi Lee, Ki-Woong Park  
-  *2025 IEEE PRDC Workshop* (2025.11)
+* **A Self-Synchronizing Cyber Deception Framework via Infrastructure as Code Reflection** Junyeong Park, Sayeon Kim, Woohyun Jang, Yeon-Jae Kim, Shinwoo Shim, Olmi Lee, Ki-Woong Park | *2025 IEEE PRDC Workshop* (2025.11)
 
 ### 🇰🇷 Domestic Conferences (Selected)
 * **LLM의 민감 정보 유출 방지 기술의 동향과 한계** 박준영, 고남현, 김도영, 김준식, 윤주범 | *한국인터넷정보학회 춘계학술발표대회 (26-KSII'S)* (2026.05)
