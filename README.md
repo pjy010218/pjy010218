@@ -49,9 +49,9 @@
 ---
 
 ## 🛠️ Tech Stack
-* **Languages**: C, Python, TypeScript, Assembly.
-* **Systems/Security**: Linux Kernel, FUSE, eBPF, WinDbg, Volatility 3.
-* **Tools/Frameworks**: PyTorch, Gemini API, Docker, VS Code Extension API.
+* **Languages**: C, Python, Assembly.
+* **Systems/Security**: Linux Kernel, FUSE, eBPF.
+* **Tools/Frameworks**: PyTorch, Gemini API, MCP Server, Docker.
 
 ---
 
